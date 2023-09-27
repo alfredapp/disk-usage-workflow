@@ -98,7 +98,7 @@
 	<key>readme</key>
 	<string>## Usage
 
-See how much storage is being used by internal and external disks via the `storage` keyword. Press &lt;kbd&gt;↩&lt;/kbd&gt; to open a volume’s root folder in Finder.
+See how much storage is being used by internal and external disks via the `storage` keyword. Press &lt;kbd&gt;↩&lt;/kbd&gt; to open a volume’s root folder in the Finder.
 
 ![Checking Storage](images/about/storage.png)</string>
 	<key>uidata</key>
@@ -142,8 +142,6 @@ See how much storage is being used by internal and external disks via the `stora
 			<string>usage_keyword</string>
 		</dict>
 	</array>
-	<key>variablesdontexport</key>
-	<array/>
 	<key>version</key>
 	<string>2023.1</string>
 	<key>webaddress</key>
