@@ -74,7 +74,7 @@
 				<key>scriptfile</key>
 				<string>disk-usage</string>
 				<key>subtext</key>
-				<string>See available disk space in all volumes</string>
+				<string>{const:alfred_workflow_description}</string>
 				<key>title</key>
 				<string>{const:alfred_workflow_name}</string>
 				<key>type</key>
