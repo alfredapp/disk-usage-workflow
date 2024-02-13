@@ -43,6 +43,29 @@
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>path</key>
+				<string></string>
+				<key>sortBy</key>
+				<integer>0</integer>
+				<key>sortDirection</key>
+				<integer>0</integer>
+				<key>sortFoldersAtTop</key>
+				<false/>
+				<key>sortOverride</key>
+				<false/>
+				<key>stackBrowserView</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.browseinalfred</string>
+			<key>uid</key>
+			<string>90BDF6C1-FE40-480C-91C2-52A1990EF6C2</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
 				<key>alfredfiltersresults</key>
 				<true/>
 				<key>alfredfiltersresultsmatchmode</key>
@@ -92,29 +115,6 @@
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>path</key>
-				<string></string>
-				<key>sortBy</key>
-				<integer>0</integer>
-				<key>sortDirection</key>
-				<integer>0</integer>
-				<key>sortFoldersAtTop</key>
-				<false/>
-				<key>sortOverride</key>
-				<false/>
-				<key>stackBrowserView</key>
-				<false/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.browseinalfred</string>
-			<key>uid</key>
-			<string>90BDF6C1-FE40-480C-91C2-52A1990EF6C2</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
 				<key>openwith</key>
 				<string></string>
 				<key>sourcefile</key>
@@ -135,8 +135,8 @@ See how much storage is being used by internal and external disks via the `stora
 
 ![Checking Storage](images/about/storage.png)
 
-* &lt;kbd&gt;↩&lt;/kbd&gt;: Browse volume in Alfred.
-* &lt;kbd&gt;⌥&lt;/kbd&gt;&lt;kbd&gt;↩&lt;/kbd&gt;: Browse volume in the Finder.</string>
+* &lt;kbd&gt;↩&lt;/kbd&gt; Browse volume in Alfred.
+* &lt;kbd&gt;⌥&lt;/kbd&gt;&lt;kbd&gt;↩&lt;/kbd&gt; Browse volume in the Finder.</string>
 	<key>uidata</key>
 	<dict>
 		<key>90BDF6C1-FE40-480C-91C2-52A1990EF6C2</key>
