@@ -6,6 +6,9 @@ See available disk space in all volumes
 
 ## Usage
 
-See how much storage is being used by internal and external disks via the `storage` keyword. Press <kbd>↩&#xFE0E;</kbd> to open a volume’s root folder in Finder.
+See how much storage is being used by internal and external disks via the `storage` keyword.
 
 ![Checking Storage](Workflow/images/about/storage.png)
+
+* <kbd>↩&#xFE0E;</kbd> Browse volume in Alfred.
+* <kbd>⌥</kbd><kbd>↩&#xFE0E;</kbd> Browse volume in the Finder.

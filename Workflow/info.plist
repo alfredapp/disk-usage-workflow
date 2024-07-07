@@ -188,7 +188,7 @@ See how much storage is being used by internal and external disks via the `stora
 		</dict>
 	</array>
 	<key>version</key>
-	<string>2023.1</string>
+	<string>2024.1</string>
 	<key>webaddress</key>
 	<string>https://github.com/alfredapp/disk-usage-workflow/</string>
 </dict>
